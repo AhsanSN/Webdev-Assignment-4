@@ -1,0 +1,78 @@
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\csc.exe
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\vbc.exe
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Assignment4Client.dll.config
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Assignment4Client.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Assignment4Client.pdb
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Newtonsoft.Json.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Net.Http.Formatting.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Helpers.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Mvc.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Razor.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Razor.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\Newtonsoft.Json.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Net.Http.Formatting.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Razor.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Razor.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Helpers.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Mvc.xml
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.csprojAssemblyReference.cache
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.csproj.CoreCompileInputs.cache
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.csproj.CopyComplete
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.dll
+C:\Users\sa02908\Downloads\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.pdb
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\csc.exe
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\System.Collections.Immutable.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\System.Reflection.Metadata.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\vbc.exe
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\VBCSCompiler.exe
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\roslyn\VBCSCompiler.exe.config
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Assignment4Client.dll.config
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Assignment4Client.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Assignment4Client.pdb
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Microsoft.Web.Infrastructure.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Newtonsoft.Json.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Net.Http.Formatting.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Helpers.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Mvc.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Razor.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Deployment.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Razor.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\Newtonsoft.Json.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Net.Http.Formatting.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Razor.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Deployment.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Webpages.Razor.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Helpers.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\bin\System.Web.Mvc.xml
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.csprojAssemblyReference.cache
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.csproj.CoreCompileInputs.cache
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.csproj.CopyComplete
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.dll
+H:\Assignment4 Web&App\Assignment4Client\Assignment4Client\Assignment4Client\obj\Debug\Assignment4Client.pdb
